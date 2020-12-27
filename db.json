@@ -1,0 +1,32 @@
+{
+  "Cliente": [
+    {
+      "nombre": "David Fernando Valenzuela ",
+      "telefono": "6567894",
+      "empresa": "ESTE ES UNA EMPRESA",
+      "correo": "VLDAVID12@OUTLOOK.COM.CO",
+      "id": 1
+    },
+    {
+      "nombre": "Andrea Osorio Actualizado",
+      "telefono": "434675534",
+      "empresa": "Esta es una empresa numero 2",
+      "correo": "Vlzdavid12@outlook.com",
+      "id": 2
+    },
+    {
+      "nombre": "David Fernando valenzula",
+      "telefono": "213123213",
+      "empresa": "Diens",
+      "correo": "Vlzdavid12@outlook.com",
+      "id": 3
+    },
+    {
+      "nombre": "David Fernando Valenzuela",
+      "telefono": "2243324",
+      "empresa": "Diens.com",
+      "correo": "Vlzdavid12@outlook.com",
+      "id": 4
+    }
+  ]
+}
