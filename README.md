@@ -6,4 +6,11 @@ progect_file/android/local.properties
 ```bash
 sdk.dir = /Users/imac/Library/Android/sdk
 ```
+
+### Accept Term Android Studio SDK Command
+```bash
+yes | sudo ~/Library/Android/sdk/tools/bin/sdkmanager --licenses
+```
+
+
 [More Info](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
