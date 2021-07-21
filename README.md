@@ -12,7 +12,7 @@ sdk.dir = /Users/imac/Library/Android/sdk
 yes | sudo ~/Library/Android/sdk/tools/bin/sdkmanager --licenses
 ```
 
-### Addd
+### Add
 Go to your project, open android folder > gradle.properties file > add below line 
 ```bash
  org.gradle.java.home=/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home // path to JDK
