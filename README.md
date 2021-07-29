@@ -13,7 +13,7 @@ yes | sudo ~/Library/Android/sdk/tools/bin/sdkmanager --licenses
 ```
 
 ### Add
-Go to your project, open android folder > gradle.properties file > add below line 
+Go to your project, open android folder > android/gradle.properties file > add below line 
 ```bash
  org.gradle.java.home=/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home // path to JDK
 ```
@@ -29,3 +29,4 @@ npx react-native run-android
 ```
 
 [More Info](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
+[More React Native Official](https://doc.ebichu.cc/react-native/releases/0.44/docs/android-building-from-source.html)
