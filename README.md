@@ -28,5 +28,5 @@ adb -s RFXNW19314000305 reverse tcp:8081 tcp8081
 npx react-native run-android
 ```
 
-[More Info](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
-[More React Native Official](https://doc.ebichu.cc/react-native/releases/0.44/docs/android-building-from-source.html)
+[More Info](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)<br>
+[More React Native Oficial](https://doc.ebichu.cc/react-native/releases/0.44/docs/android-building-from-source.html)
