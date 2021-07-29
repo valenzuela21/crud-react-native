@@ -20,5 +20,10 @@ Go to your project, open android folder > gradle.properties file > add below lin
 run your project again react-native run-android
 
 
+## Emulathor App Android in Dispositive
+
+```
+adb devices
+```
 
 [More Info](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
