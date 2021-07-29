@@ -24,6 +24,8 @@ run your project again react-native run-android
 
 ```
 adb devices
+adb -s RFXNW19314000305 reverse tcp:8081 tcp8081
+npx react-native run-android
 ```
 
 [More Info](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
