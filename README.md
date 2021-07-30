@@ -29,4 +29,7 @@ npx react-native run-android
 ```
 
 [More Info](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)<br>
-[More React Native Oficial](https://doc.ebichu.cc/react-native/releases/0.44/docs/android-building-from-source.html)
+[More React Native Oficial](https://doc.ebichu.cc/react-native/releases/0.44/docs/android-building-from-source.html)<br>
+
+## Library Start Featured
+https://swmansion.com/community/open-source/
