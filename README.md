@@ -16,6 +16,8 @@ yes | sudo ~/Library/Android/sdk/tools/bin/sdkmanager --licenses
 Go to your project, open android folder > android/gradle.properties file > add below line 
 ```bash
  org.gradle.java.home=/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home // path to JDK
+ or
+ export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"
 ```
 run your project again react-native run-android
 
