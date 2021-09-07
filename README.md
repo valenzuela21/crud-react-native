@@ -33,6 +33,7 @@ npx react-native run-android
 
 ```
 npx react-native run-android --deviceId= 'myDeviceId'
+sudo vim ~/.zshrc
 
 ```
 
