@@ -40,6 +40,7 @@ sudo vim ~/.zshrc
 [More Adb Devices Command](https://www.flipandroid.com/no-se-puede-acceder-a-adb-en-os-x-a-travs-de-terminal-command-not-found.html)<br>
 [More Info Install Aditional](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)<br>
 [More React Native Oficial](https://doc.ebichu.cc/react-native/releases/0.44/docs/android-building-from-source.html)<br>
+[More React Native Sdk Config Console](https://stackoverflow.com/questions/55677874/failed-to-launch-emulator-error-emulator-didnt-connect-within-60-seconds)<br>
 
 ## Library Start Featured
 https://swmansion.com/community/open-source/
