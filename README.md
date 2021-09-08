@@ -35,6 +35,9 @@ npx react-native run-android
 npx react-native run-android --deviceId= 'myDeviceId'
 sudo vim ~/.zshrc
 
+Execute:
+. ~/.zshrc
+
 ```
 
 [More Adb Devices Command](https://www.flipandroid.com/no-se-puede-acceder-a-adb-en-os-x-a-travs-de-terminal-command-not-found.html)<br>
