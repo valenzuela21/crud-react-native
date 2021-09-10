@@ -45,6 +45,7 @@ Execute:
 ```
 xcrun simctl list devices
 react-native run-ios --simulator="iPhone 8"
+react-native run-ios --simulator="iPhone XS" --port=8088
 ```
 
 [More Adb Devices Command](https://www.flipandroid.com/no-se-puede-acceder-a-adb-en-os-x-a-travs-de-terminal-command-not-found.html)<br>
