@@ -40,7 +40,7 @@ Execute:
 
 ```
 
-## Emulate Ios
+## Emulathor Ios
 
 ```
 xcrun simctl list devices
