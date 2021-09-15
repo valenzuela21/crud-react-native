@@ -66,3 +66,5 @@ pod update
 
 ## Library Start Featured
 https://swmansion.com/community/open-source/
+
+[Screen Plash](https://blog.logrocket.com/building-a-splash-screen-in-react-native/)
