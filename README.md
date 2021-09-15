@@ -48,6 +48,16 @@ react-native run-ios --simulator="iPhone 8"
 react-native run-ios --simulator="iPhone XS" --port=8088
 ```
 
+## Pod IOS
+
+```
+sudo gem install cocoapods-clean
+pod deintegrate
+pod clean
+pod install
+```
+
+
 [More Adb Devices Command](https://www.flipandroid.com/no-se-puede-acceder-a-adb-en-os-x-a-travs-de-terminal-command-not-found.html)<br>
 [More Info Install Aditional](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)<br>
 [More React Native Oficial](https://doc.ebichu.cc/react-native/releases/0.44/docs/android-building-from-source.html)<br>
