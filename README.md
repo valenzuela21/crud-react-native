@@ -58,6 +58,16 @@ pod install
 pod update
 ```
 
+## Generate Debug Apk
+
+```
+react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+cd android
+./gradlew assembleDebug
+```
+
+There! you’ll find the apk file in the following path:
+yourProject/android/app/build/outputs/apk/debug/app-debug.apk
 
 [More Adb Devices Command](https://www.flipandroid.com/no-se-puede-acceder-a-adb-en-os-x-a-travs-de-terminal-command-not-found.html)<br>
 [More Info Install Aditional](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)<br>
