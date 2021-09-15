@@ -73,6 +73,7 @@ yourProject/android/app/build/outputs/apk/debug/app-debug.apk
 [More Info Install Aditional](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)<br>
 [More React Native Oficial](https://doc.ebichu.cc/react-native/releases/0.44/docs/android-building-from-source.html)<br>
 [More React Native Sdk Config Console](https://stackoverflow.com/questions/55677874/failed-to-launch-emulator-error-emulator-didnt-connect-within-60-seconds)<br>
+[More Apk](https://medium.com/geekculture/react-native-generate-apk-debug-and-release-apk-4e9981a2ea51)
 
 ## Library Start Featured
 https://swmansion.com/community/open-source/
