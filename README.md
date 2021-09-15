@@ -55,6 +55,7 @@ sudo gem install cocoapods-clean
 pod deintegrate
 pod clean
 pod install
+pod update
 ```
 
 
