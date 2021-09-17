@@ -79,3 +79,11 @@ yourProject/android/app/build/outputs/apk/debug/app-debug.apk
 https://swmansion.com/community/open-source/
 
 [Screen Plash](https://blog.logrocket.com/building-a-splash-screen-in-react-native/)
+
+## Gradle Start
+
+```
+./gradle
+./gradle clean
+./gradle build
+```
