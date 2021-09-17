@@ -52,6 +52,7 @@ react-native run-ios --simulator="iPhone XS" --port=8088
 
 ```
 sudo gem install cocoapods-clean
+cd /ios
 pod deintegrate
 pod clean
 pod install
@@ -83,6 +84,7 @@ https://swmansion.com/community/open-source/
 ## Gradle Start
 
 ```
+cd /android
 ./gradle
 ./gradle clean
 ./gradle build
