@@ -44,6 +44,8 @@ Execute:
 
 ```
 xcrun instruments -s devices
+npx react-native run-ios --device='yourDeviceName'
+
 xcrun simctl list devices
 react-native run-ios --simulator="iPhone 8"
 react-native run-ios --simulator="iPhone XS" --port=8088
