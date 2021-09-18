@@ -100,9 +100,10 @@ cd /android
 lsusb
 ```
 
-## Ios Deployment
+## iOS Deployment
 
 
 ```
 sudo npm install --global --unsafe-perm ios-deploy
+npx react-native run-ios --device='iPad (14.6)'
 ```
