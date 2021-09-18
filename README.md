@@ -46,6 +46,7 @@ Execute:
 xcrun simctl list devices
 react-native run-ios --simulator="iPhone 8"
 react-native run-ios --simulator="iPhone XS" --port=8088
+react-native run-ios --udid 90953319-BF9A-4C6E-8AB1-594394AD26CE
 ```
 
 ## Pod IOS
