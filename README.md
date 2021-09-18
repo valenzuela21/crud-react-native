@@ -43,6 +43,7 @@ Execute:
 ## Emulathor Ios
 
 ```
+xcrun instruments -s devices
 xcrun simctl list devices
 react-native run-ios --simulator="iPhone 8"
 react-native run-ios --simulator="iPhone XS" --port=8088
