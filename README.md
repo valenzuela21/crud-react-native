@@ -99,3 +99,10 @@ cd /android
 ```
 lsusb
 ```
+
+## Ios Deployment
+
+
+```
+sudo npm install --global --unsafe-perm ios-deploy
+```
