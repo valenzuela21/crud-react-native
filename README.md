@@ -90,3 +90,9 @@ cd /android
 ./gradle clean
 ./gradle build
 ```
+
+## List Usb
+
+```
+lsusb
+```
