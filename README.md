@@ -86,11 +86,11 @@ https://swmansion.com/community/open-source/
 [Screen Plash](https://blog.logrocket.com/building-a-splash-screen-in-react-native/)
 
 ## Gradle Start
-
+https://docs.gradle.org/current/userguide/command_line_interface.html
 ```
 cd /android
-./gradlew
-./gradlew build
+./gradle
+./gradle build
 ./gradle clean
 ```
 
