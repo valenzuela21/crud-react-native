@@ -90,8 +90,8 @@ https://swmansion.com/community/open-source/
 ```
 cd /android
 ./gradlew
-./gradlew clean
 ./gradlew build
+./gradle clean
 ```
 
 ## List Usb
