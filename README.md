@@ -89,9 +89,9 @@ https://swmansion.com/community/open-source/
 https://docs.gradle.org/current/userguide/command_line_interface.html
 ```
 cd /android
-./gradle
-./gradle build
-./gradle clean
+./gradlew
+./gradlew build
+./gradlew clean
 ```
 
 ## List Usb
