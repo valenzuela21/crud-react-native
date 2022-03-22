@@ -107,3 +107,9 @@ lsusb
 sudo npm install --global --unsafe-perm ios-deploy
 npx react-native run-ios --device='iPad (14.6)'
 ```
+
+## iOS M1 CHIP
+```
+sudo arch -x86_64 gem install ffi
+arch -x86_64 pod install
+```
